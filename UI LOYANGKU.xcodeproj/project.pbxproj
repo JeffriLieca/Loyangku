@@ -7,7 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D9074A6A2BE7F9310027F7FE /* RecipeBaruView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9074A692BE7F9310027F7FE /* RecipeBaruView.swift */; };
+		D9074A722BE8149C0027F7FE /* Fungsi.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9074A712BE8149C0027F7FE /* Fungsi.swift */; };
 		D90DF9CA2BE00E82007269B4 /* Scan Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90DF9C92BE00E82007269B4 /* Scan Text.swift */; };
+		D9167ED02BE6B89F004CD990 /* ViewBaru.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167ECF2BE6B89F004CD990 /* ViewBaru.swift */; };
+		D9167ED22BE6DC0D004CD990 /* CustomPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167ED12BE6DC0D004CD990 /* CustomPicker.swift */; };
+		D9167ED42BE75FA7004CD990 /* CustomTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167ED32BE75FA6004CD990 /* CustomTextFieldView.swift */; };
+		D9167ED62BE761E6004CD990 /* UkuranView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167ED52BE761E6004CD990 /* UkuranView.swift */; };
+		D9167ED82BE79B77004CD990 /* UploadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167ED72BE79B77004CD990 /* UploadView.swift */; };
+		D9167EDA2BE7A0CA004CD990 /* ModalRecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167ED92BE7A0CA004CD990 /* ModalRecipeView.swift */; };
+		D9167EDC2BE7AC8A004CD990 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167EDB2BE7AC8A004CD990 /* LoadingView.swift */; };
+		D9167EDE2BE7C412004CD990 /* CobaGeserBahan.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167EDD2BE7C412004CD990 /* CobaGeserBahan.swift */; };
+		D98159222BE47FA100AE94F6 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98159212BE47FA100AE94F6 /* TabBar.swift */; };
 		D9A49A482BDEC17800B2AFBC /* UI_LOYANGKUApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A49A472BDEC17800B2AFBC /* UI_LOYANGKUApp.swift */; };
 		D9A49A4A2BDEC17800B2AFBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A49A492BDEC17800B2AFBC /* ContentView.swift */; };
 		D9A49A4C2BDEC17900B2AFBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9A49A4B2BDEC17900B2AFBC /* Assets.xcassets */; };
@@ -36,7 +47,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D9074A692BE7F9310027F7FE /* RecipeBaruView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeBaruView.swift; sourceTree = "<group>"; };
+		D9074A712BE8149C0027F7FE /* Fungsi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fungsi.swift; sourceTree = "<group>"; };
 		D90DF9C92BE00E82007269B4 /* Scan Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scan Text.swift"; sourceTree = "<group>"; };
+		D9167ECF2BE6B89F004CD990 /* ViewBaru.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBaru.swift; sourceTree = "<group>"; };
+		D9167ED12BE6DC0D004CD990 /* CustomPicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomPicker.swift; path = ../../../CustomPicker/CustomPicker/CustomPicker.swift; sourceTree = "<group>"; };
+		D9167ED32BE75FA6004CD990 /* CustomTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldView.swift; sourceTree = "<group>"; };
+		D9167ED52BE761E6004CD990 /* UkuranView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkuranView.swift; sourceTree = "<group>"; };
+		D9167ED72BE79B77004CD990 /* UploadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadView.swift; sourceTree = "<group>"; };
+		D9167ED92BE7A0CA004CD990 /* ModalRecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalRecipeView.swift; sourceTree = "<group>"; };
+		D9167EDB2BE7AC8A004CD990 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		D9167EDD2BE7C412004CD990 /* CobaGeserBahan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CobaGeserBahan.swift; sourceTree = "<group>"; };
+		D98159212BE47FA100AE94F6 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		D9A49A442BDEC17800B2AFBC /* UI LOYANGKU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI LOYANGKU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A49A472BDEC17800B2AFBC /* UI_LOYANGKUApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI_LOYANGKUApp.swift; sourceTree = "<group>"; };
 		D9A49A492BDEC17800B2AFBC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,10 +97,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D9074A732BE8162E0027F7FE /* Gak Kepake */ = {
+			isa = PBXGroup;
+			children = (
+				D9A49A492BDEC17800B2AFBC /* ContentView.swift */,
+				D90DF9C92BE00E82007269B4 /* Scan Text.swift */,
+				D9A49A712BDEE6F300B2AFBC /* table.swift */,
+				D9167EDD2BE7C412004CD990 /* CobaGeserBahan.swift */,
+				D9167EDB2BE7AC8A004CD990 /* LoadingView.swift */,
+				D9167ED32BE75FA6004CD990 /* CustomTextFieldView.swift */,
+			);
+			path = "Gak Kepake";
+			sourceTree = "<group>";
+		};
 		D9A49A3B2BDEC17800B2AFBC = {
 			isa = PBXGroup;
 			children = (
-				D90DF9C92BE00E82007269B4 /* Scan Text.swift */,
 				D9A49A462BDEC17800B2AFBC /* UI LOYANGKU */,
 				D9A49A572BDEC17900B2AFBC /* UI LOYANGKUTests */,
 				D9A49A612BDEC17900B2AFBC /* UI LOYANGKUUITests */,
@@ -99,11 +133,18 @@
 		D9A49A462BDEC17800B2AFBC /* UI LOYANGKU */ = {
 			isa = PBXGroup;
 			children = (
+				D9074A732BE8162E0027F7FE /* Gak Kepake */,
 				D9A49A472BDEC17800B2AFBC /* UI_LOYANGKUApp.swift */,
-				D9A49A492BDEC17800B2AFBC /* ContentView.swift */,
-				D9A49A712BDEE6F300B2AFBC /* table.swift */,
+				D9167ED52BE761E6004CD990 /* UkuranView.swift */,
+				D9167ED72BE79B77004CD990 /* UploadView.swift */,
+				D9167ECF2BE6B89F004CD990 /* ViewBaru.swift */,
+				D9074A692BE7F9310027F7FE /* RecipeBaruView.swift */,
+				D9167ED92BE7A0CA004CD990 /* ModalRecipeView.swift */,
+				D9167ED12BE6DC0D004CD990 /* CustomPicker.swift */,
+				D98159212BE47FA100AE94F6 /* TabBar.swift */,
 				D9A49A4B2BDEC17900B2AFBC /* Assets.xcassets */,
 				D9A49A4D2BDEC17900B2AFBC /* Preview Content */,
+				D9074A712BE8149C0027F7FE /* Fungsi.swift */,
 			);
 			path = "UI LOYANGKU";
 			sourceTree = "<group>";
@@ -264,9 +305,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				D90DF9CA2BE00E82007269B4 /* Scan Text.swift in Sources */,
+				D9167ED82BE79B77004CD990 /* UploadView.swift in Sources */,
+				D9074A722BE8149C0027F7FE /* Fungsi.swift in Sources */,
+				D9167ED62BE761E6004CD990 /* UkuranView.swift in Sources */,
+				D9167ED22BE6DC0D004CD990 /* CustomPicker.swift in Sources */,
 				D9A49A722BDEE6F300B2AFBC /* table.swift in Sources */,
+				D9167EDC2BE7AC8A004CD990 /* LoadingView.swift in Sources */,
+				D9074A6A2BE7F9310027F7FE /* RecipeBaruView.swift in Sources */,
+				D9167ED42BE75FA7004CD990 /* CustomTextFieldView.swift in Sources */,
 				D9A49A4A2BDEC17800B2AFBC /* ContentView.swift in Sources */,
+				D9167EDA2BE7A0CA004CD990 /* ModalRecipeView.swift in Sources */,
+				D9167EDE2BE7C412004CD990 /* CobaGeserBahan.swift in Sources */,
 				D9A49A482BDEC17800B2AFBC /* UI_LOYANGKUApp.swift in Sources */,
+				D9167ED02BE6B89F004CD990 /* ViewBaru.swift in Sources */,
+				D98159222BE47FA100AE94F6 /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
